@@ -1,1 +1,23 @@
-# basic_calculator
+🧮 Calculator
+
+A simple calculator built using HTML and JavaScript. This project performs basic arithmetic operations and demonstrates DOM event handling and JavaScript expression evaluation.
+
+✨ Features
+➕ Addition
+➖ Subtraction
+✖️ Multiplication
+➗ Division
+🔢 Decimal number support
+🗑️ Clear button to reset the calculation
+⚡ Instant calculation using JavaScript
+
+
+🛠️ Technologies Used
+HTML5
+JavaScript (ES6)
+
+
+🔗 Code: 
+
+
+🌐 Live:
