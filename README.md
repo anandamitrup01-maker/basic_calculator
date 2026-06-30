@@ -17,7 +17,7 @@ HTML5
 JavaScript (ES6)
 
 
-🔗 Code: 
+🔗 Code: https://github.com/anandamitrup01-maker/basic_calculator/blob/main/index.html
 
 
 🌐 Live:
