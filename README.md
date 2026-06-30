@@ -20,4 +20,4 @@ JavaScript (ES6)
 🔗 Code: https://github.com/anandamitrup01-maker/basic_calculator/blob/main/index.html
 
 
-🌐 Live:
+🌐 Live: https://anandamitrup01-maker.github.io/basic_calculator/
