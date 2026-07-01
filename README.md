@@ -2,7 +2,7 @@
 
 A simple calculator built using HTML and JavaScript. This project performs basic arithmetic operations and demonstrates DOM event handling and JavaScript expression evaluation.
 
-✨ Features
+## ✨ Features
 ➕ Addition
 ➖ Subtraction
 ✖️ Multiplication
@@ -12,7 +12,7 @@ A simple calculator built using HTML and JavaScript. This project performs basic
 ⚡ Instant calculation using JavaScript
 
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 HTML5
 JavaScript (ES6)
 
