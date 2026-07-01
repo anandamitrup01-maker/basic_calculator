@@ -1,4 +1,4 @@
-🧮 Calculator
+## 🧮 Calculator
 
 A simple calculator built using HTML and JavaScript. This project performs basic arithmetic operations and demonstrates DOM event handling and JavaScript expression evaluation.
 
